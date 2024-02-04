@@ -1,0 +1,20 @@
+{
+    "projects": [
+        {
+        "name": "SampleJetton",
+        "path": "./sources/contract.tact",
+        "output": "./sources/output",
+        "options":{
+            
+        }
+        },
+        {
+            "name": "FanslandSell",
+            "path": "./sources/fansland_sell.tact",
+            "output": "./sources/output",
+            "options":{
+                
+            }
+        }
+    ]
+}
